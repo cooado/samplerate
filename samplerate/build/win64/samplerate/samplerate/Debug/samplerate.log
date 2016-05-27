@@ -1,0 +1,27 @@
+﻿  src_zoh.c
+  src_sinc.c
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(473): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(474): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(625): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(626): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(627): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(628): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(783): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(784): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(785): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(786): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(787): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(788): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(1009): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(1012): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(1015): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(1018): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(1021): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(1024): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(1027): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\water\libsamplerate-0.1.8\samplerate\src\src_sinc.c(1030): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  src_linear.c
+  samplerate.c
+  正在生成代码...
+  samplerate.vcxproj -> D:\water\libsamplerate-0.1.8\samplerate\build\win64\samplerate\Debug\samplerate.dll
+  samplerate.vcxproj -> D:\water\libsamplerate-0.1.8\samplerate\build\win64\samplerate\Debug\samplerate.pdb (Partial PDB)
